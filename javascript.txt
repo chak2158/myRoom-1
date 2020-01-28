@@ -5,4 +5,4 @@ split(): wow
 concat(): 문자열 합치기
 
 
-pull req
+pull req req
